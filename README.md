@@ -1,12 +1,5 @@
 # SEO Meta Inspector
 
-Contributors: amin.majid3
-Tags: SEO, On-Page SEO, Inspector, Meta
-Requires at least: 5.5+
-Tested up to: 5.7
-License: GNU General Public Licence V2
-Stable Tag: 1.0
-
 SEO Meta Inspector for easy on-page inspection.
 
 ## Installation
